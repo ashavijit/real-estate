@@ -28,5 +28,5 @@
 ```
 
 # Reference video
-[]:  # Video: https://drive.google.com/file/d/1PaeWzQfatK5GLiVFthvrR39ZLTEZtbUb/view?usp=sharing
+# Video: https://drive.google.com/file/d/1PaeWzQfatK5GLiVFthvrR39ZLTEZtbUb/view?usp=sharing
 
